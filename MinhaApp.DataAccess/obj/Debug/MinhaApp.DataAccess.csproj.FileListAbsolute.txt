@@ -1,0 +1,14 @@
+C:\Users\Igor\Desktop\MinhaApp\MinhaApp.DataAccess\bin\Debug\MinhaApp.DataAccess.dll
+C:\Users\Igor\Desktop\MinhaApp\MinhaApp.DataAccess\bin\Debug\MinhaApp.DataAccess.pdb
+C:\Users\Igor\Desktop\MinhaApp\MinhaApp.DataAccess\bin\Debug\MinhaApp.Domain.dll
+C:\Users\Igor\Desktop\MinhaApp\MinhaApp.DataAccess\bin\Debug\MinhaApp.Domain.pdb
+C:\Users\Igor\Desktop\MinhaApp\MinhaApp.DataAccess\obj\Debug\MinhaApp.DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\Igor\Desktop\MinhaApp\MinhaApp.DataAccess\obj\Debug\MinhaApp.DataAccess.dll
+C:\Users\Igor\Desktop\MinhaApp\MinhaApp.DataAccess\obj\Debug\MinhaApp.DataAccess.pdb
+C:\Users\Igor\Desktop\MinhaApp\MinhaApp.DataAccess\bin\Debug\MinhaApp.DataAccess.dll.config
+C:\Users\Igor\Desktop\MinhaApp\MinhaApp.DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\Igor\Desktop\MinhaApp\MinhaApp.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Igor\Desktop\MinhaApp\MinhaApp.DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\Igor\Desktop\MinhaApp\MinhaApp.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Igor\Desktop\MinhaApp\MinhaApp.DataAccess\obj\Debug\MinhaApp.DataAccess.Migrations._001.resources
+C:\Users\Igor\Desktop\MinhaApp\MinhaApp.DataAccess\obj\Debug\MinhaApp.DataAccess.csproj.GenerateResource.Cache

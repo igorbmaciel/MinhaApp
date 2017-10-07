@@ -1,0 +1,5 @@
+C:\Users\Igor\Desktop\MinhaApp\MinhaApp.Domain\bin\Debug\MinhaApp.Domain.dll
+C:\Users\Igor\Desktop\MinhaApp\MinhaApp.Domain\bin\Debug\MinhaApp.Domain.pdb
+C:\Users\Igor\Desktop\MinhaApp\MinhaApp.Domain\obj\Debug\MinhaApp.Domain.dll
+C:\Users\Igor\Desktop\MinhaApp\MinhaApp.Domain\obj\Debug\MinhaApp.Domain.pdb
+C:\Users\Igor\Desktop\MinhaApp\MinhaApp.Domain\obj\Debug\MinhaApp.Domain.csprojResolveAssemblyReference.cache
